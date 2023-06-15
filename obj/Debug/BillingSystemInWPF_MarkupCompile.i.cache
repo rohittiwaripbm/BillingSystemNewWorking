@@ -1,0 +1,20 @@
+﻿BillingSystemInWPF
+
+
+winexe
+C#
+.cs
+D:\Billing System\BillingSystemInWPF\obj\Debug\
+BillingSystemInWPF
+none
+false
+DEBUG;TRACE
+D:\Billing System\BillingSystemInWPF\App.xaml
+7-1545635527
+
+25-2022859275
+25977904175
+MainWindow.xaml;UserControls\AddCategoriesView.xaml;UserControls\AddProductView.xaml;UserControls\DisplayAllCategoriesView.xaml;UserControls\GenerateBillView.xaml;UserControls\ProductView.xaml;UserControls\TotalBillView.xaml;
+
+False
+
